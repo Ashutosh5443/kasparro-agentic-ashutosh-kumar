@@ -1,0 +1,28 @@
+{
+  "title": "GlowBoost Vitamin C Serum",
+  "safety_label": "PATCH TEST REQUIRED",
+  "details": {
+    "name": "GlowBoost Vitamin C Serum",
+    "price": 699.0,
+    "currency": "\u20b9",
+    "ingredients": [
+      "Vitamin C",
+      "Hyaluronic Acid",
+      "Ferulic Acid"
+    ],
+    "benefits": [
+      "Brightening",
+      "Fades dark spots",
+      "Anti-aging"
+    ],
+    "skin_type": [
+      "Oily",
+      "Combination"
+    ],
+    "side_effects": [
+      "Mild tingling",
+      "Redness on broken skin"
+    ],
+    "usage": "Apply 2-3 drops in the morning before sunscreen"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "FAQ Page",
+  "title": "FAQ: GlowBoost Vitamin C Serum",
+  "questions": [
+    {
+      "category": "Usage",
+      "question": "Can I use this with Retinol?",
+      "answer": "It is recommended to alternate use (AM vs PM)."
+    },
+    {
+      "category": "Safety",
+      "question": "Is it safe for pregnancy?",
+      "answer": "Consult your doctor, but Vitamin C is generally safe."
+    },
+    {
+      "category": "Storage",
+      "question": "Does it oxidize?",
+      "answer": "Yes, keep in a cool dark place."
+    },
+    {
+      "category": "Results",
+      "question": "How long to see results?",
+      "answer": "Typically 4-6 weeks of consistent use."
+    },
+    {
+      "category": "Skin Type",
+      "question": "Is it good for dry skin?",
+      "answer": "Yes, but follow with a moisturizer."
+    }
+  ]
+}
